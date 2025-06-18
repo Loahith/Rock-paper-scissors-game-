@@ -16,5 +16,5 @@ A terminal-based Rock, Paper, Scissors game in Python with a 10-round scoring sy
 3. Run:
 
 ```bash
-python game.py
+game.py
 # Rock-paper-scissors-game-
